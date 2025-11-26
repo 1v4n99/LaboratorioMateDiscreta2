@@ -5,6 +5,7 @@ print("tarbajo de trago franklin")
 
 
 print ("vassa chupetin")
+print ("algo gozu")
 <<<<<<< HEAD
 print ("primer intento")
 =======
